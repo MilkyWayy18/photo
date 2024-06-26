@@ -1,5 +1,5 @@
 import { Module } from '@nestjs/common';
-import { FileModule } from './fileee/file.module';
+import { FileModule } from './back/file.module';
 import { TypeOrmModule } from '@nestjs/typeorm';
 
 
